@@ -1,0 +1,16 @@
+C:\Users\PSACC\Downloads\multip\multip\bin\Debug\net8.0-windows\multip.exe
+C:\Users\PSACC\Downloads\multip\multip\bin\Debug\net8.0-windows\multip.deps.json
+C:\Users\PSACC\Downloads\multip\multip\bin\Debug\net8.0-windows\multip.runtimeconfig.json
+C:\Users\PSACC\Downloads\multip\multip\bin\Debug\net8.0-windows\multip.dll
+C:\Users\PSACC\Downloads\multip\multip\bin\Debug\net8.0-windows\multip.pdb
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.Form1.resources
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.csproj.GenerateResource.cache
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.AssemblyInfoInputs.cache
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.AssemblyInfo.cs
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.csproj.CoreCompileInputs.cache
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.dll
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\refint\multip.dll
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.pdb
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\multip.genruntimeconfig.cache
+C:\Users\PSACC\Downloads\multip\multip\obj\Debug\net8.0-windows\ref\multip.dll
